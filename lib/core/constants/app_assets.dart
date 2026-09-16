@@ -1,0 +1,26 @@
+abstract final class AppAssets {
+  static const logo = 'assets/icons/logo.png';
+  static const phoneIcon = 'assets/icons/phoneIcon.png';
+  static const vector = 'assets/images/vector.png';
+  static const onboardingImage = 'assets/images/onboarding_image.png';
+  static const loginBackground = 'assets/images/loginBG.png';
+  static const allProducts = 'assets/icons/all_products.png';
+  static const babyCare = 'assets/icons/babycare.png';
+  static const personalCare = 'assets/icons/personal_care.png';
+  static const nutritional = 'assets/icons/nutritional.png';
+  static const skinCare = 'assets/icons/skincare.png';
+  static const minimalist = 'assets/icons/minimalist.png';
+  static const prohance = 'assets/icons/prohance.png';
+  static const horlicks = 'assets/icons/horlicks.png';
+  static const pilgrim = 'assets/icons/pilgrim.png';
+  static const vaseline = 'assets/icons/vaseline.png';
+  static const homeLogo = 'assets/icons/home_logo.png';
+  static const homeIcon = 'assets/icons/home_icon.png';
+  static const categoriesIcon = 'assets/icons/categories_icon.png';
+  static const offersIcon = 'assets/icons/offers_icon.png';
+  static const profileIcon = 'assets/icons/profile_icon.png';
+  static const prescriptionIcon = 'assets/icons/prescription_icon.png';
+  static const homeBanner = 'assets/images/home_banner.png';
+  static const himalaya = 'assets/images/himalaya.png';
+  static const diataal = 'assets/images/diataal.png';
+}
